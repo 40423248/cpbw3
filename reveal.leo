@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 <v t="amd.20150915153206.1" a="E"><vh>專案說明</vh>
@@ -20,7 +20,8 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="leo.20160114230709.1"><vh>@button user pelican</vh></v>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -36,12 +37,60 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="leo.20151002153241.1"><vh>@edit 2015cpnote2.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
+<v t="leo.20160114231055.1"><vh>@path ./../../</vh>
+<v t="leo.20160114231055.2"><vh>@button admin pelican</vh></v>
+<v t="leo.20160114231055.3"><vh>@path pelican</vh>
+<v t="leo.20160114231055.4"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160114231055.5" a="E"><vh>@path content</vh>
+<v t="leo.20160114231055.6"><vh>@edit g7_w14_1.md</vh></v>
+<v t="leo.20160114231055.7"><vh>@edit g7_w14_2.md</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160114230753.1"><vh>@path ./</vh>
+<v t="leo.20160114230753.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20160114230753.3"><vh>@edit 40423248_cp_w1_p.html</vh></v>
+<v t="leo.20160114230753.4"><vh>@edit 40423248_cp_w2_p.html</vh></v>
+<v t="leo.20160114230753.5"><vh>@edit 40423248_cp_w3_p.html</vh></v>
+<v t="leo.20160114230753.6"><vh>@edit 40423248_cp_w4_p.html</vh></v>
+<v t="leo.20160114230753.7"><vh>@edit 40423248_cp_w5_p.html</vh></v>
+<v t="leo.20160114230753.8"><vh>@edit 40423248_cp_w6_p.html</vh></v>
+<v t="leo.20160114230753.9"><vh>@edit 40423248_cp_w7_p.html</vh></v>
+<v t="leo.20160114230753.10"><vh>@edit 40423248_cp_w8_p.html</vh></v>
+<v t="leo.20160114230753.11"><vh>@edit 40423248_cp_w9_p.html</vh></v>
+<v t="leo.20160114230753.12"><vh>@edit 40423248_cp_w11_p.html</vh></v>
+<v t="leo.20160114230753.13"><vh>@edit 40423248_cp_w12_p.html</vh></v>
+<v t="leo.20160114230753.14"><vh>@edit 40423248_cp_w13_p.html</vh></v>
+<v t="leo.20160114230753.15"><vh>@edit 40423248_cp_w14_p.html</vh></v>
+<v t="leo.20160114230753.16"><vh>@edit 40423248_cp_w15_p.html</vh></v>
+<v t="leo.20160114230753.17" a="E"><vh>@path pelican</vh>
+<v t="leo.20160114230753.18"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20160114230753.19"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160114230753.20" a="E"><vh>@path content</vh>
+<v t="leo.20160114230753.21"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160114230753.22"><vh>@edit 40423248_cp_w1.md</vh></v>
+<v t="leo.20160114230753.23"><vh>@edit 40423248_cp_w2.md</vh></v>
+<v t="leo.20160114230753.24"><vh>@edit 40423248_cp_w3.md</vh></v>
+<v t="leo.20160114230753.25"><vh>@edit 40423248_cp_w4.md</vh></v>
+<v t="leo.20160114230753.26"><vh>@edit 40423248_cp_w5.md</vh></v>
+<v t="leo.20160114230753.27"><vh>@edit 40423248_cp_w6.md</vh></v>
+<v t="leo.20160114230753.28"><vh>@edit 40423248_cp_w7.md</vh></v>
+<v t="leo.20160114230753.29"><vh>@edit 40423248_cp_w8.md</vh></v>
+<v t="leo.20160114230753.30"><vh>@edit 40423248_cp_w9.md</vh></v>
+<v t="leo.20160114230753.31"><vh>@edit 40423248_cp_w11.md</vh></v>
+<v t="leo.20160114230753.32"><vh>@edit 40423248_cp_w12.md</vh></v>
+<v t="leo.20160114230753.33"><vh>@edit 40423248_cp_w13.md</vh></v>
+<v t="leo.20160114230753.34"><vh>@edit 40423248_cp_w14.md</vh></v>
+<v t="leo.20160114230753.35"><vh>@edit 40423248_cp_w15.md</vh></v>
+</v>
+</v>
+</v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
@@ -2238,5 +2287,147 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20160114230709.1">@language python
+import os
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
+g.es("user pelican 執行完畢")</t>
+<t tx="leo.20160114230753.1"></t>
+<t tx="leo.20160114230753.17"></t>
+<t tx="leo.20160114230753.18"></t>
+<t tx="leo.20160114230753.2"></t>
+<t tx="leo.20160114230753.20"></t>
+<t tx="leo.20160114230753.21"></t>
+<t tx="leo.20160114231055.1"></t>
+<t tx="leo.20160114231055.2">@language python
+import os
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
+g.es("admin pelican 執行完畢")</t>
+<t tx="leo.20160114231055.3"></t>
+<t tx="leo.20160114231055.4">@language python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- #
+from __future__ import unicode_literals
+
+# This file is only used if you use `make publish` or
+# explicitly specify it as your config file.
+
+import os
+
+AUTHOR = '2015FALLCPB'
+SITENAME = '2015FALL CPB 作業'
+SITEURL = ''
+
+PATH = 'content'
+
+TIMEZONE = 'Asia/Taipei'
+
+DEFAULT_LANG = 'en'
+
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
+# Blogroll
+LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
+         ('Python', 'http://python.org/'),('2015作業主頁', '../../'))
+
+# Social widget
+SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
+          ('github', 'http://github.com/ametaireau'))
+          
+DEFAULT_PAGINATION = 10
+
+SITEURL = 'http://coursemdetw.github.io/reveal'
+RELATIVE_URLS = True
+
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+
+DELETE_OUTPUT_DIRECTORY = True
+
+# Following items are often useful when publishing
+
+#DISQUS_SITENAME = ""
+DISQUS_SITENAME = "2015fall"
+#GOOGLE_ANALYTICS = ""
+
+# 必須絕對目錄或相對於設定檔案所在目錄
+PLUGIN_PATHS = ['./../plugin']
+PLUGINS = ['liquid_tags.notebook']
+# 目錄設定相對於 reveal 下的 content 目錄
+NOTEBOOK_DIR = 'notebook'</t>
+<t tx="leo.20160114231055.5"></t>
+<t tx="leo.20160114231055.6">@language md
+Title: g7 w14-1
+Date: 2015-12-25 15:13
+Category: g7
+Tags: w14, brython
+Slug: g7_w14_1
+Authors: 40423248
+Summary: Brython 繪圖
+
+以下利用 Brython 在網頁寫 Python 繪圖
+
+&lt;!-- 導入 brython.js --&gt;
+
+&lt;script type="text/javascript" src="js/Brython3.2.3-20151122-082712/brython.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 brython() --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
+
+&lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
+
+&lt;script type="text/python3"&gt;
+# 導入 doc
+from browser import document as doc
+from browser import console
+import math
+
+# 準備繪圖畫布
+canvas = doc["plotarea"]
+ctx = canvas.getContext("2d")
+
+# 開始畫直線
+ctx.beginPath()
+ctx.lineWidth = 5
+ctx.moveTo(0, 0)
+ctx.lineTo(100, 100)
+ctx.strokeStyle = "#FF0000"
+ctx.stroke()
+
+ctx.beginPath()
+ctx.lineWidth = 1
+ctx.moveTo(100, 0)
+ctx.lineTo(0, 100)
+ctx.strokeStyle = "#0000ff"
+ctx.stroke()
+
+x = 100
+y = 100
+
+# 利用 browser 模組中的 console.log 將資料列印在 console 區, 可以用來確認程式中各變數的值, 用法等同 print
+console.log("x 值為"+str(x)+", y 值為"+str(y))
+&lt;/script&gt;</t>
+<t tx="leo.20160114231055.7">@language md
+Title: g7 w14-2
+Date: 2015-12-25 15:13
+Category: g7
+Tags: w14
+Slug: g7_w14_2
+Authors: 40423248
+Summary: g7 w14-2摘要
+
+g7 w14-2摘要
+</t>
 </tnodes>
 </leo_file>
